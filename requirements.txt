@@ -1,0 +1,7 @@
+"""
+Requirements for DigitalOcean Cookie Validator.
+Python 3.10+ with async support.
+"""
+
+httpx==0.25.2
+python-dotenv==1.0.0
